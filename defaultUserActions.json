@@ -1,0 +1,28 @@
+{
+  "actions": [
+    {
+      "name": "viewMainApplication",
+      "description": "View home page of application"
+    },
+    {
+      "name": "viewCategories",
+      "description": "View available categories"
+    },
+    {
+      "name": "createCategory",
+      "description": "Create a new category"
+    },
+    {
+      "name": "updateCategory",
+      "description": "Update an existing category"
+    },
+    {
+      "name": "deleteCategory",
+      "description": "Delete an existing category"
+    },
+    {
+      "name": "deleteManyCategories",
+      "description": "Delete many existing categories"
+    }
+  ]
+}
